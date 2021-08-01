@@ -16,7 +16,7 @@
 * Recuperar
 * Recuperar Id
 * Atualizar Id
-* Excluir
+* Excluir   Id
 
 # URLs
 * /api/create
