@@ -45,4 +45,8 @@
   
   **As principais funções deste componente são o provisionamento de endpoints e a obtenção de métricas da aplicação. Por exemplo: por padrão, o Spring Boot AutoConfigurator define que o servidor web deve ser exposto em localhost na porta 8080. Quem faz o provisionamento desta configuração no servidor web é o Actuator**
   
+  ## Programa para teste das APIs 
+  
+  * Postman
+  
  # [Código](https://github.com/MDSSCML/RequisicoesAPICrud/tree/master)
